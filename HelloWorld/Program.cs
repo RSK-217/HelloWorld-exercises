@@ -1,14 +1,6 @@
 ﻿//Console.WriteLine("Howdy Y'all!!");
 //Console.ReadLine();
 
-//ConsoleKeyInfo enteredKey;
-
-//do
-//{
-//    enteredKey = Console.ReadKey();
-//    Console.WriteLine($"You pressed the {enteredKey.Key.ToString()} key");
-
-//} while (enteredKey.Key != ConsoleKey.Escape);
 
 //string sentence;
 
